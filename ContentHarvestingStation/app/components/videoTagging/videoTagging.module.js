@@ -1,0 +1,1 @@
+﻿var videoTagging = angular.module('videoTagging', []);
